@@ -7,6 +7,7 @@ public class Test {
 				System.out.println(ClassA.getAbc());
 		System.out.println("oi");
 		System.out.println("nama mu siapa");
+		System.out.println("heheheh");
 	}
 	
 }
